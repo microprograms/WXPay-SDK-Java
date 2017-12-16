@@ -1,4 +1,4 @@
-package com.github.microprograms.wxpay_sdk;
+package com.github.microprograms.wxpay_sdk_java;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
@@ -8,7 +8,7 @@ import java.security.MessageDigest;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import com.github.microprograms.wxpay_sdk.WXPayConstants.SignType;
+import com.github.microprograms.wxpay_sdk_java.WXPayConstants.SignType;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;

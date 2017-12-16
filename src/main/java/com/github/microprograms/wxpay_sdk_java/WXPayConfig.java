@@ -1,4 +1,4 @@
-package com.github.microprograms.wxpay_sdk;
+package com.github.microprograms.wxpay_sdk_java;
 
 import java.io.InputStream;
 

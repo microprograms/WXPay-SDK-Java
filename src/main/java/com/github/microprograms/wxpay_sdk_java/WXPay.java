@@ -1,8 +1,8 @@
-package com.github.microprograms.wxpay_sdk;
+package com.github.microprograms.wxpay_sdk_java;
 
 import javax.net.ssl.*;
 
-import com.github.microprograms.wxpay_sdk.WXPayConstants.SignType;
+import com.github.microprograms.wxpay_sdk_java.WXPayConstants.SignType;
 
 import java.io.*;
 import java.net.HttpURLConnection;

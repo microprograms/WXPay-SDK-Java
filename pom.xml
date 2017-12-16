@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.microprograms</groupId>
-    <artifactId>wxpay_sdk_java</artifactId>
-    <version>1.0.1</version>
+    <artifactId>wxpay-sdk-java</artifactId>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <name>WXPay-SDK-Java</name>

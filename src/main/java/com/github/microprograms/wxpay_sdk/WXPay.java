@@ -1,14 +1,15 @@
-package com.github.wxpay.sdk;
+package com.github.microprograms.wxpay_sdk;
 
 import javax.net.ssl.*;
+
+import com.github.microprograms.wxpay_sdk.WXPayConstants.SignType;
+
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.security.*;
 import java.util.HashMap;
 import java.util.Map;
-
-import com.github.wxpay.sdk.WXPayConstants.SignType;
 
 public class WXPay {
 

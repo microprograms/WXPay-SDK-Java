@@ -1,4 +1,4 @@
-package com.github.wxpay.sdk;
+package com.github.microprograms.wxpay_sdk;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
@@ -7,6 +7,8 @@ import java.util.*;
 import java.security.MessageDigest;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+
+import com.github.microprograms.wxpay_sdk.WXPayConstants.SignType;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
@@ -17,7 +19,6 @@ import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
-import com.github.wxpay.sdk.WXPayConstants.SignType;
 
 
 public class WXPayUtil {
